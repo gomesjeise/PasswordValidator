@@ -3,7 +3,7 @@ package com.br.itau.validator.service;
 import org.springframework.stereotype.Service;
 
 @Service
-public class ValidatorService {
+public class PasswordValidatorService {
 
     private final String specialCharacter = "!@#$%^&*()-+";
 
