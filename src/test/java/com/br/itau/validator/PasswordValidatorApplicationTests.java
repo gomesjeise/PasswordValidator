@@ -9,5 +9,4 @@ class PasswordValidatorApplicationTests {
 	@Test
 	void contextLoads() {
 	}
-
 }
